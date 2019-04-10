@@ -7,7 +7,6 @@ for src, dirs, _ in os.walk('.'):
   if src != '.':
     break
   with open('index.md', 'w') as index:
-    print('# jrms website\n', file = index)
     for dn in sorted(dirs):
       if dn.startswith('.'):
         continue

@@ -17,14 +17,14 @@
     <div id="container">
       <div class="inner">
 
-        {% if page.url != "/" %}
         <header>
-          <!-- h1>{{ site.title | default: site.github.repository_name }}</h1 -->
-          <!-- h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2 -->
-          <a href="/">index</a>
+        {% if page.url == "/" %}
+          <h2>jrms.web</h2>
+        {% else %}
+          <h2><a href="/">jrms.web</a></h2>
+        {% endif %}
         </header>
         <hr>
-        {% endif %}
 
         <section id="main_content">
           {{ content }}
