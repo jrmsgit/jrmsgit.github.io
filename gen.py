@@ -24,6 +24,8 @@ for src, dirs, _ in os.walk('.'):
             name = fn.replace('_', ' ').title()
             print('* [%s](./%s)' % (name, fn), file = fh)
             dncount += 1
+        if dncount == 0:
+          os.unlink('%s/index.md' % dirname)
       if dncount > 0:
         print('## [%s](./%s)\n' % (dn.title(), dn), file = index)
 
