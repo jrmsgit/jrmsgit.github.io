@@ -1,4 +1,5 @@
-title: jrms website
-description:
-theme: jekyll-theme-hacker
+title: jrms
+description: jrms website
+theme: jekyll-theme-tactile
 show_downloads: false
+lang: es-AR
