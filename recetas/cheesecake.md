@@ -1,6 +1,7 @@
 # Cheese Cake
 
 Porciones: 6 (un poco más también)
+
 Cocción: 45 min.
 
 ## Ingredientes
