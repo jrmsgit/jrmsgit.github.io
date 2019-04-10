@@ -1,4 +1,4 @@
 # Index
 
-* [Recetas](./recetas)
+## [Recetas](./recetas)
 
