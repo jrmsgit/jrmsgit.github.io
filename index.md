@@ -1,1 +1,2 @@
-# [Recetas](./recetas)
+## [Recetas](./recetas)
+

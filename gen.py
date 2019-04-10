@@ -22,6 +22,6 @@ for src, dirs, _ in os.walk('.'):
             fn = fn[:-3]
             name = fn.replace('_', ' ').title()
             print('* [%s](./%s)' % (name, fn), file = fh)
-      print('# [%s](./%s)' % (dn.title(), dn), file = index)
+      print('## [%s](./%s)\n' % (dn.title(), dn), file = index)
 
 sys.exit(0)
