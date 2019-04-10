@@ -21,13 +21,13 @@ masa.
 
 ## Masa
 
-- 1 taza harina leudante
-- 1/3 taza azúcar
-- 1 cucharadita de canela
-- 75g manteca derretida
-- 1/3 taza leche
-- 1/3 taza agua
-- 1 huevo
+* 1 taza harina leudante
+* 1/3 taza azúcar
+* 1 cucharadita de canela
+* 75g manteca derretida
+* 1/3 taza leche
+* 1/3 taza agua
+* 1 huevo
 
 ### Preparación
 

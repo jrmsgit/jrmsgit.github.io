@@ -1,6 +1,6 @@
 # Fondue de Queso (estilo Neuremberg)
 
-# Ingredientes
+## Ingredientes
 
 * 1 diente de ajo
 * 400g de queso gruyére
