@@ -10,6 +10,7 @@ for src, dirs, _ in os.walk('.'):
     for dn in sorted(dirs):
       if dn.startswith('.'):
         continue
+      dncount = 0
       for dirname, dirs, files in os.walk(dn):
         with open('%s/index.md' % dirname, 'w') as fh:
           for fn in sorted(files):
@@ -22,6 +23,8 @@ for src, dirs, _ in os.walk('.'):
             fn = fn[:-3]
             name = fn.replace('_', ' ').title()
             print('* [%s](./%s)' % (name, fn), file = fh)
-      print('## [%s](./%s)\n' % (dn.title(), dn), file = index)
+            dncount += 1
+      if dncount > 0:
+        print('## [%s](./%s)\n' % (dn.title(), dn), file = index)
 
 sys.exit(0)
