@@ -10,7 +10,7 @@ for dirname, dirs, files in os.walk('recetas'):
 				continue
 			fn = fn[:-3]
 			name = fn.replace('_', ' ').title()
-			link = '%s/%s' % (dirname, fn)
+			link = './%s' % fn
 			print('* [%s](%s)' % (name, link), file = fh)
 
 sys.exit(0)
