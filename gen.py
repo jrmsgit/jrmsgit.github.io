@@ -29,6 +29,6 @@ for src, dirs, _ in os.walk('.'):
         if dncount == 0:
           os.unlink('%s/index.md' % dirname)
       if dncount > 0:
-        print('* [%s](./%s)\n' % (dn.title(), dn), file = index)
+        print('## [%s](./%s)\n' % (dn.title(), dn), file = index)
 
 sys.exit(0)
