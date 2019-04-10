@@ -8,7 +8,7 @@
 * 3-4 manzanas (verdes o rojas)
 * 1 puñado de nueces (o pasas de uva, almendras...)
 
-## Preparación
+### Preparación
 
 En una sartén poner a fuego medio la manteca con el azúcar y la canela hasta que
 se derrita.
@@ -29,7 +29,7 @@ masa.
 - 1/3 taza agua
 - 1 huevo
 
-## Preparación
+### Preparación
 
 En un recipiente mezclar el azúcar, la canela y la harina.
 

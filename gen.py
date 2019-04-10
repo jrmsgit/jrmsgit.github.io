@@ -7,7 +7,7 @@ for src, dirs, _ in os.walk('.'):
 	if src != '.':
 		break
 	with open('index.md', 'w') as index:
-		for dn in dirs:
+		for dn in sorted(dirs):
 			if dn.startswith('.'):
 				continue
 			for dirname, dirs, files in os.walk(dn):
