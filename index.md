@@ -1,4 +1,2 @@
-# jrms website
-
 ## [Recetas](./recetas)
 
