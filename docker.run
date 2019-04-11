@@ -1,2 +1,2 @@
 #!/bin/sh
-docker run -it --rm -v ${PWD}:/srv/jekyll -p 127.0.0.1::4000 jrmsweb $@
+docker run -it --rm -v ${PWD}:/srv/jekyll -p 127.0.0.1:4000:4000 jrmsweb jekyll $1
