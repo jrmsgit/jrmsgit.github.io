@@ -21,3 +21,11 @@ a:hover {
 li {
 	line-height: 2em;
 }
+
+footer a {
+	color: #222;
+}
+
+footer a:hover {
+	color: #999;
+}

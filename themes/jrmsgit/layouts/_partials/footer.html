@@ -1,0 +1,12 @@
+{{- $page := .page }}
+{{- $repo := "jrmsgit/jrmsgit.github.io" }}
+{{- $repo_edit := printf "%s/edit/master" $repo }}
+
+<footer class="w3-small w3-margin-bottom">
+	{{ with $page.File }}
+		<a target="_blank"
+			href="https://github.com/{{ $repo_edit }}/content/{{ .Path }}">
+			edit
+		</a>
+	{{ end }}
+</footer>
