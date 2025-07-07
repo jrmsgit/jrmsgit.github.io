@@ -1,4 +1,9 @@
-# Cheese Cake
+---
+title: Cheese Cake
+date: 2023-07-07T14:13:07-03:00
+draft: false
+type: page
+---
 
 Porciones: 6 (un poco más también)
 

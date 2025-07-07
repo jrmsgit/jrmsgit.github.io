@@ -1,4 +1,9 @@
-# Galletas Manteca
+---
+title: Galletas Manteca
+date: 2023-07-07T14:13:07-03:00
+draft: false
+type: page
+---
 
 Para unas 100~120 galletitas, de unos 4,5cms de diámetro y unos 3mm de alto.
 

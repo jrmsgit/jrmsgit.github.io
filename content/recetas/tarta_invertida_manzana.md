@@ -1,4 +1,11 @@
-# Tarta invertida de manzana (sin horno)
+---
+title: Tarta invertida de manzana
+date: 2023-07-07T14:13:07-03:00
+draft: false
+type: page
+---
+
+Preparación sin horno!
 
 ## Relleno
 

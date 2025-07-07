@@ -1,4 +1,9 @@
-# Torta de Naranja y Manzana
+---
+title: Torta de Naranja y Manzana
+date: 2023-07-07T14:13:07-03:00
+draft: false
+type: page
+---
 
 ## Ingredientes
 

@@ -1,4 +1,9 @@
-# Fondue Chocolate
+---
+title: Fondue Chocolate
+date: 2023-07-07T14:13:07-03:00
+draft: false
+type: page
+---
 
 8-10 porciones
 

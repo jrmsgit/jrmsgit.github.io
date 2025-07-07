@@ -1,4 +1,9 @@
-# Fondue de Queso (estilo Neuremberg)
+---
+title: Fondue de Queso (estilo Neuremberg)
+date: 2023-07-07T14:13:07-03:00
+draft: false
+type: page
+---
 
 ## Ingredientes
 
