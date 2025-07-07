@@ -1,4 +1,9 @@
-# Radios
+---
+title: Radios
+date: 2023-07-07T14:30:00-03:00
+draft: false
+type: page
+---
 
 * [am610](http://nnvserver.com:8600/live)
 * [blues 1.fm](http://sc-blues.1.fm:7040/)
