@@ -1,0 +1,11 @@
+baseURL: https://jrmsgit.githug.io
+languageCode: en-us
+title: jrms
+theme: jrmsgit
+
+disableKinds:
+  - section
+  - RSS
+  - taxonomy
+
+enableRobotsTXT: false
