@@ -1,0 +1,21 @@
+{
+  "include": ["."],
+  "exclude": [
+    "public",
+    "node_modules"
+  ],
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+    "target": "es2019",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "outDir": "./public",
+    "noImplicitAny": false,
+    "noImplicitOverride": true,
+    "declaration": false,
+    "skipLibCheck": true
+  }
+}

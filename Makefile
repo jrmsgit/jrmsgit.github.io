@@ -25,5 +25,5 @@ build:
 .PHONY: check
 check:
 	shellcheck hugo/*.sh
-	tsc --noEmit
+	npx tsc --noEmit
 	npm audit
